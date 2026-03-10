@@ -3,7 +3,9 @@ directory
 
 
 mono_crash.*
-
+Assets/Raynbo Games/Aa/
+Assets/Raynbo Games/Art/
+*.meta
 #
 # Get latest from 
 https://github.com/github/gitignore/blob/main/Unity.gitignore
@@ -119,3 +121,13 @@ Assets/AirshipPackages/@Easy/Core.meta
 Assets/TypeScriptEditorMetadata.aseditorinfo.meta
 
 Assets/AirshipPackages/@Easy.meta
+
+Assets/AirshipPackages/@Easy/VoxelWorld/*
+
+Assets/AirshipPackages/@Easy/VoxelWorld.meta
+
+Assets/AirshipPackages/@vorlias/NexusNet/*
+
+Assets/AirshipPackages/@vorlias.meta
+
+Assets/AirshipPackages/@vorlias/NexusNet.meta

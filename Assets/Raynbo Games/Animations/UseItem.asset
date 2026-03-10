@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 242626de727c4fe4ab54046da100263e, type: 3}
+  m_Name: UseItem
+  m_EditorClassIdentifier: 
+  _scriptPath: Assets/Code/Input/CharacterAnimation.lua
+  _script: {fileID: 3298379482583556808, guid: 2fbc963f11990614c8231f382afaea52, type: 3}
+  metadata:
+    name: CharacterAnimation
+    singleton: 0
+    decorators:
+    - name: CreateAssetMenu
+      parameters: []
+    properties:
+    - name: clip
+      type: object
+      objectType: AnimationClip
+      items:
+        type: 
+        objectType: 
+        serializedItems: []
+        objectRefs: []
+      refPath: 
+      fileRef: 
+      jsDocs:
+        text: []
+        tags: []
+      decorators: []
+      nullable: 0
+      serializedValue: 
+      serializedObject: {fileID: 7400000, guid: a2d161c6bb4ec1a43a2579b5f96e10ee, type: 2}
+      modified: 1
+    - name: transition
+      type: number
+      objectType: 
+      items:
+        type: 
+        objectType: 
+        serializedItems: []
+        objectRefs: []
+      refPath: 
+      fileRef: 
+      jsDocs:
+        text: []
+        tags: []
+      decorators: []
+      nullable: 0
+      serializedValue: 0.1
+      serializedObject: {fileID: 0}
+      modified: 1
+    - name: layer
+      type: IntEnum
+      objectType: 
+      items:
+        type: 
+        objectType: 
+        serializedItems: []
+        objectRefs: []
+      refPath: AirshipPackages/@Easy/Core/Shared/Types/Airship.d@CharacterAnimationLayer
+      fileRef: 
+      jsDocs:
+        text: []
+        tags: []
+      decorators: []
+      nullable: 0
+      serializedValue: 2
+      serializedObject: {fileID: 0}
+      modified: 1
+    displayIcon: {fileID: 0}
+    displayName: 

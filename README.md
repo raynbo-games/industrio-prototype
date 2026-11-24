@@ -1,5 +1,4 @@
-# Airship Template Game
-Use this repo as a starting point for your future Airship game!
+# Industrio Prototype
 
-## Getting started
-[Check out our docs](https://docs.airship.gg/) for information on getting started and how to develop on Airship.
+This was an initial prototype for the Airship game Industrio (now on Roblox)
+This project was discontinued due to the shutdown of Airship.
